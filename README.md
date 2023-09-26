@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasDi4s&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=LucasDi4s&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -13,6 +13,7 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDi4s&hide_progress=true)
+
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
