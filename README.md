@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDi4s&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDi4s&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDi4s&layout=compact)
 
 ##
 <div style="display: inline_block"><br>
