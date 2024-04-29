@@ -26,7 +26,7 @@
 ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LucasDi4s/LucasDi4s/output/snake.svg" alt="Snake animation" />
+   <img src="https://raw.githubusercontent.com/Leonardo-Gomiero/Leonardo-Gomiero/output/snake.svg" alt="Snake animation" />
 </p>
 
 ##
